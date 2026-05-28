@@ -59,4 +59,5 @@ Ambos contenedores (db y wordpress) se ejecutaron correctamente.
 Se creó automáticamente la red red-academica y el volumen db_data.
 WordPress se cargó correctamente y pudo conectarse a la base de datos MariaDB.
 
-<img width="641" height="484" alt="Captura de pantalla 2026-05-27 213041" src="https://github.com/user-attachments/assets/f53d457e-9bd3-459d-92c3-4c2fb45ba685" />
+<img width="1003" height="750" alt="Captura de pantalla 2026-05-27 221159" src="https://github.com/user-attachments/assets/d6ce5a3d-5881-405a-8ecb-de68ebc673d8" />
+
